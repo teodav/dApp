@@ -29,7 +29,7 @@ Physically stores the demonstration files. The Training smart contract only regi
 
 # Project structure
 
-**training-project**
+**truffle-training**
 
 Implements the the smart contracts and the trainer and trainee agents
 
@@ -37,6 +37,6 @@ Implements the the smart contracts and the trainer and trainee agents
 
 Implements the extention of the ML-agents platform
 
-**hummingbird**
+**Hummingbirds**
 
 Implements the hummingbird intelligent agent and its interacting environment for conducting the experiments 
