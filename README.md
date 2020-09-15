@@ -28,6 +28,7 @@ Provides the complex environment that interacts with an agent during its trainin
 Physically stores the demonstration files. The Training smart contract only registers the demo’s IPFS hash address instead of the files
 
 # Project structure
+The project consists of the following git submodules:
 
 **truffle-training**
 
