@@ -1,0 +1,3 @@
+[submodule "extended-ml-agents"]
+	path = extended-ml-agents
+	url = https://github.com/teodav/extended-ml-agents.git
