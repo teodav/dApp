@@ -4,3 +4,6 @@
 [submodule "Hummingbirds"]
 	path = Hummingbirds
 	url = https://github.com/teodav/Hummingbirds.git
+[submodule "truffle-training"]
+	path = truffle-training
+	url = https://github.com/teodav/truffle-training.git
