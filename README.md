@@ -1,7 +1,7 @@
 # Scope
 **A decentralized application that fully automates the workflow of the demonstrations’ trading and the Trainee agent training process**
 
-![Alt Text](https://drive.google.com/file/d/1ZBeS8TVW47PYQDk2Mpi4yMbxpd2tZnnM/view?usp=sharing)
+![dapp Demo](demo/dapp-demo.gif)
 
 # System decomposition
 It contains of the following modules:
